@@ -201,7 +201,7 @@ namespace inpopts{
 		return count;
 	}
 
-	string InpOptsClass::listArgs(){
+	string InpOptsClass::listOpts(){
 		string str = "";
 		string opt_long = "";
 

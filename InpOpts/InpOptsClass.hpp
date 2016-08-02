@@ -155,7 +155,7 @@ namespace inpopts{
 			}
 
 			bool checkOpt(const char, const std::string, std::vector<std::string> &, const bool);
-			std::string listArgs();
+			std::string listOpts();
 			bool Used(const char);
 			bool Used(const std::string);
 			std::string Priority();
